@@ -1,0 +1,22 @@
+{
+  "wheel_id": 792,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-108",
+  "project": "retaining-wall-quotes-glossary-f178c434e114d942c0f067a93e669cae",
+  "parent_t1_ref": "retainingwallquote-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall quotes glossary",
+  "intended_url": "https://sitesau.github.io/retainingwallquote-108/",
+  "tier": "T2",
+  "writeback_nonce": "b78f69622b544cce",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-quotes-budget-tips-508bd3cc0b018df3e2db2003b7cfd/",
+      "anchor": "retaining wall quotes budget tips",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
